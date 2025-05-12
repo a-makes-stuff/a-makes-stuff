@@ -3,7 +3,7 @@
 <h2>👨‍💻SOC Analyst Homelabs:</h2>
 
 - <b>AZURE Sentinel SIEM cloud attack simulation</b>
-  - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/a-makes-stuff/LiveSim)
 - <b>Active directory homelab simulation</b>
   - (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Multitenable vulnerability scan and remediation</b>
