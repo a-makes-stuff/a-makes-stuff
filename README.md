@@ -5,9 +5,9 @@
 - <b>AZURE Sentinel SIEM cloud attack simulation</b>
   - (https://github.com/a-makes-stuff/LiveSim)
 - <b>Active directory homelab simulation</b>
-  - (https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - (https://github.com/a-makes-stuff/ActiveDir)
 - <b>Multitenable vulnerability scan and remediation</b>
-  - (https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - 
   
 
 
